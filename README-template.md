@@ -15,25 +15,22 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
 Desktop view
 
-image.png
+![image](https://user-images.githubusercontent.com/81572524/167250210-2d5323c7-4759-4c6d-aa3c-09ce00f7e90e.png)
 
 Mobile view
 
-image.png
-
+![image](https://user-images.githubusercontent.com/81572524/167250229-fc59a8e3-bf4f-4737-ab51-7f1a06514e29.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/dev-prabhat/qr-code-component-main)
+- Live Site URL: [Add live site URL here](https://qr-code-responsive-site.netlify.app/)
 
 ## My process
 
@@ -41,62 +38,33 @@ image.png
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+While building this is project , I learned some Semantic html tags like main , section and after deep dive into Semantic i get to know about that while building any project or web we should try to use these tags main, section , header , footer and aside , there are many more but all I remember are these this time
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+In CSS , by which we can make our website beautiful , here I learn about how to select a tag to apply CSS properties also how to select children tag in a parent tag to apply common CSS properties . Typography plays an important role to make any website symmetric(can't get the exact word)  
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+There are many things to learn in my Frontend Developer journey , but firstly I wann make sure that i can create website responsive with respect to multiple screens so that it looks perfect or tends to perfect
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://developer.mozilla.org/en-US/) - This website is gem or say for a Frontend developer a gold mine and very much helpfull
+- [Example resource 2](https://web.dev/) - This is also a useful website where you can find useful blogs and articles .
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://prabhatsingh-portfolio.netlify.app/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dev-prabhat)
+- Twitter - [@yourusername](https://twitter.com/prabhat_singh97)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+The only tip i can give build as many as project (but on your own, you can take inspiration) to become a Good Web Develper or Frontend Developer 
