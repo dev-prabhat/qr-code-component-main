@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --dark-blue-color: hsl(218, 44%, 22%);
+    --grayish-blue-color:hsl(220, 15%, 55%);
+    --light-gray-color:hsl(212, 45%, 89%);
+    --white-color: hsl(0, 0%, 100%);
+    --font-weight-semibold:400;
+    --font-weight-bold:700;
+    --mobile-view:375px;
+}
+
+body{
+    background-color: var(--light-gray-color );
+    font-family: 'Overpass', sans-serif;
+}
+
+.card{
+    width: 25%;
+    margin: 5vh auto;
+    padding: 1rem;
+    background-color: var(--white-color);
+    border-radius: 1rem;
+}
+
+.image-container{
+    width: 100%;
+}
+
+.image{
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.card-title{
+    font-weight: var(--font-weight-bold);
+    font-size: 1.5rem;
+    padding: 1.5rem 1rem 1rem;
+    color: var(--dark-blue-color);
+    text-align: center;
+}
+
+.card-description{
+    font-weight: var(--font-weight-semibold);
+    font-size: 1rem;
+    padding: 0 1rem 1rem;
+    color: var(--grayish-blue-color);
+    text-align: center;
+}
+
+.attribution{
+    text-align: center;
+}
+
+.attribution > a{
+  text-decoration: none;
+}
+
+@media (max-width:375px) {
+    .card{
+        width: 80%;
+        margin: 10vh auto;
+    }
+}
+
+@media (min-width:375px) and (max-width:745px){
+    .card{
+        width: 50%;
+        margin: 10vh auto;
+    }
+}
